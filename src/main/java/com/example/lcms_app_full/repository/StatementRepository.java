@@ -1,0 +1,15 @@
+package com.example.lcms_app_full.repository;
+
+
+import com.example.lcms_app_full.entity.Payment;
+import com.example.lcms_app_full.entity.Statement;
+import com.example.lcms_app_full.entity.Student;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+import java.util.UUID;
+
+public interface StatementRepository extends JpaRepository<Statement, UUID> {
+
+
+}

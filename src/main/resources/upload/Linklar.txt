@@ -1,0 +1,28 @@
+    Spring MVC EXAMPLES
+        https://www.websparrow.org/spring/spring-mvc-crud-example-using-jdbctemplate-mysql
+    Spring kutubxonalar
+        https://mvnrepository.com/search?q=spring+mvc
+        https://mockaroo.com/
+    WORDDA YOZISH
+        https://mkyong.com/java/java-read-and-write-microsoft-word-with-apache-poi/ 
+    EXCELDA YOZISH
+     https://howtodoinjava.com/java/library/readingwriting-excel-files-in-java-poi-tutorial/
+    POSTGRE SQL
+      https://www.postgresql.org/docs/current/indexes-types.html
+    Errors
+      https://www.tutorialspoint.com/http/http_status_codes.htm
+
+
+    https://github.com/Doniyor2002/spring-mvc-crud
+   
+    https://phoenixnap.com/kb/generate-ssh-key-windows-10
+   
+    Baeldung.com
+    spring initializr
+    https://codingbat.com/java/Logic-1 
+   
+    dasturlash.uz => dasturlash maruzalar sayti
+    https://mvnrepository.com/search?q=spring+mvc 
+    https://www.websparrow.org/spring/spring-mvc-crud-example-using-jdbctemplate-mysql
+    my custom exception not working in spring boot
+    @controlleradvice spring boot example
